@@ -1,0 +1,10 @@
+C:\Users\atind\source\repos\russionroullete\bin\Debug\russionroullete.exe.config
+C:\Users\atind\source\repos\russionroullete\bin\Debug\russionroullete.exe
+C:\Users\atind\source\repos\russionroullete\bin\Debug\russionroullete.pdb
+C:\Users\atind\source\repos\russionroullete\obj\Debug\russionroullete.csprojAssemblyReference.cache
+C:\Users\atind\source\repos\russionroullete\obj\Debug\russionroullete.Form1.resources
+C:\Users\atind\source\repos\russionroullete\obj\Debug\russionroullete.Properties.Resources.resources
+C:\Users\atind\source\repos\russionroullete\obj\Debug\russionroullete.csproj.GenerateResource.cache
+C:\Users\atind\source\repos\russionroullete\obj\Debug\russionroullete.csproj.CoreCompileInputs.cache
+C:\Users\atind\source\repos\russionroullete\obj\Debug\russionroullete.exe
+C:\Users\atind\source\repos\russionroullete\obj\Debug\russionroullete.pdb
